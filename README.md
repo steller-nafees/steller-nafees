@@ -1,7 +1,7 @@
 <h1 align='center'> Hello 👋, This is Nafees  👩‍💻 </h1>
 
 <h3 align='center'>
-  Computer Science And Engineering Student & Tech Enthusiast
+  Computer Science student + Tech enthusiast | Turning ideas into code and curiosity into projects
 </h3>
 
 ## 🌐 Socials:
